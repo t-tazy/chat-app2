@@ -41,9 +41,9 @@ Things you may want to cover:
 
 ## rooms テーブル
 
-| Column | Type | Options |
-|--------|------|---------|
-| name   | Type | Options |
+| Column | Type   | Options     |
+|--------|--------|-------------|
+| name   | string | null: false |
 
 ### Association
 
